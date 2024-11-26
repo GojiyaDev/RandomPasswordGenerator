@@ -1,5 +1,5 @@
   <h1>Random Password Generator</h1>
-    <p>This <strong>Random Password Generator</strong> application is a Python-based GUI tool designed to help users create secure and customizable passwords. Built with the <strong>Tkinter</strong> library, it offers an intuitive interface for generating random passwords with a specified length and copying them to the clipboard.</p>
+  <p>This <strong>Random Password Generator</strong> application is a Python-based GUI tool designed to help users create secure and customizable passwords. Built with the <strong>Tkinter</strong> library, it offers an intuitive interface for generating random passwords with a specified length and copying them to the clipboard.</p>
     
 <h2>Features</h2>
 <ul>
